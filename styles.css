@@ -1,0 +1,28 @@
+html {
+    text-align: center;
+    font-size: 20px;
+    background-color: #B0C4DE;
+    font-family: Helvetica;
+}
+
+table { 
+    margin: auto;
+}
+
+table thead th{
+    border: 1px black double;
+    padding: 0.5em;
+    background-color: #778899;
+    color:white;
+}
+
+table td {
+    border: 1px black double;
+    padding: 0.5em;
+    background-color: white;
+}
+
+table tbody .command {
+    font-family: monospace;
+
+}
